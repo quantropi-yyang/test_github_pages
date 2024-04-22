@@ -58,7 +58,6 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
-      # Using version v3 because currently (April 22, 2024) v4 is incompatible with GitHub Enterprise Server
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
