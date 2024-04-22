@@ -1,6 +1,7 @@
 {
   "name": "test-github-pages",
   "version": "0.1.0",
+  "homepage": "https://quantropi-yyang.github.io/test_github_pages",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
